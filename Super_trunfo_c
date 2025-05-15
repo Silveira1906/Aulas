@@ -3,7 +3,6 @@
 
 #define NUM_CARTAS 2
 
-
 typedef struct {
     char estado;                
     char codigoCarta[4];        
